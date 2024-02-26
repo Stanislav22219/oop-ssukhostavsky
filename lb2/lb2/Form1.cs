@@ -119,10 +119,6 @@ namespace lb2
             }
             if (e.KeyChar == ',')
             {
-                if (vectorTextBox.Text.IndexOf(',') != -1)
-                {
-                    e.Handled = true;
-                }
                 return;
             }
             if (Char.IsControl(e.KeyChar))
@@ -146,10 +142,6 @@ namespace lb2
             }
             if (e.KeyChar == ',')
             {
-                if (Vector2TextBox.Text.IndexOf(',') != -1)
-                {
-                    e.Handled = true;
-                }
                 return;
             }
             if (Char.IsControl(e.KeyChar))
