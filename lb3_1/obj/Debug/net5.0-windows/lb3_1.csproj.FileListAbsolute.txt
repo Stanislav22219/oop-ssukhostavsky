@@ -1,0 +1,36 @@
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.exe
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.deps.json
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.runtimeconfig.json
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.runtimeconfig.dev.json
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.dll
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\ref\lb3_1.dll
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\bin\Debug\net5.0-windows\lb3_1.pdb
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.Form1.resources
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.AssemblyInfo.cs
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.dll
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\ref\lb3_1.dll
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.pdb
+C:\Users\Student\Downloads\oop-ssukhostavsky-main\oop-ssukhostavsky-main\lb3_1\obj\Debug\net5.0-windows\lb3_1.genruntimeconfig.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.AssemblyReference.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.Form1.resources
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.GenerateResource.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.AssemblyInfoInputs.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.AssemblyInfo.cs
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.csproj.CoreCompileInputs.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.dll
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.pdb
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.exe
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.deps.json
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.runtimeconfig.json
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.runtimeconfig.dev.json
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.dll
+E:\download\download files\lb3_1\bin\Debug\net5.0-windows\lb3_1.pdb
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\refint\lb3_1.dll
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\lb3_1.genruntimeconfig.cache
+E:\download\download files\lb3_1\obj\Debug\net5.0-windows\ref\lb3_1.dll
