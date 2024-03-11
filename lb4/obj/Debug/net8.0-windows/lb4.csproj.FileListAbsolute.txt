@@ -1,0 +1,16 @@
+C:\Users\Stas\source\repos\oop\lb4\bin\Debug\net8.0-windows\lb4.exe
+C:\Users\Stas\source\repos\oop\lb4\bin\Debug\net8.0-windows\lb4.deps.json
+C:\Users\Stas\source\repos\oop\lb4\bin\Debug\net8.0-windows\lb4.runtimeconfig.json
+C:\Users\Stas\source\repos\oop\lb4\bin\Debug\net8.0-windows\lb4.dll
+C:\Users\Stas\source\repos\oop\lb4\bin\Debug\net8.0-windows\lb4.pdb
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.Form1.resources
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.AssemblyInfo.cs
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.dll
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\refint\lb4.dll
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.pdb
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\lb4.genruntimeconfig.cache
+C:\Users\Stas\source\repos\oop\lb4\obj\Debug\net8.0-windows\ref\lb4.dll
