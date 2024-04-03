@@ -8,12 +8,12 @@ namespace lb5
 {
     class LastIndexOf
     {
-        public void lastIndexOf(ListBox console)
+        public void lastIndexOf(TextBox txtString, TextBox txtSub)
         {
-            string s = "Hello World";
-            string sub = "l";
+            string s = txtString.Text;
+            string sub = txtSub.Text;
             int index = s.LastIndexOf(sub);
-            console.Items.Add(index);
+            MessageBox.Show(index.ToString());
         }
     }
 }

@@ -8,13 +8,13 @@ namespace lb5
 {
     class Remove
     {
-        public void remove(ListBox console)
+        public void remove(TextBox txtString, TextBox txtIndex, TextBox txtLength)
         {
-            string s = "Hello World";
-            int index = 4;
-            int length = 3;
+            string s = txtString.Text;
+            int index = int.Parse(txtIndex.Text);
+            int length = int.Parse(txtLength.Text);
             s = s.Remove(index, length);
-            console.Items.Add(s);
+            MessageBox.Show(s);
         }
 
     }

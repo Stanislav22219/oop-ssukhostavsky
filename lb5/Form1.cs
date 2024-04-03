@@ -9,17 +9,22 @@ namespace lb5
             InitializeComponent();
         }
 
-        public void Form1_Load(object sender, EventArgs e)
-        {    
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
             Remove Remove = new Remove();
-            Remove.remove(console);
+            Remove.remove(txtString, txtIndex, txtLength);
+        }
 
-
+        private void btnFindFirst_Click(object sender, EventArgs e)
+        {
             IndexOf IndexOf = new IndexOf();
-            IndexOf.indexOf(console);
+            IndexOf.indexOf(txtString, txtSub);
+        }
 
+        private void btnFindLast_Click(object sender, EventArgs e)
+        {
             LastIndexOf LastIndexOf = new LastIndexOf();
-            LastIndexOf.lastIndexOf(console);
+            LastIndexOf.lastIndexOf(txtString, txtSub);
         }
     }
 }

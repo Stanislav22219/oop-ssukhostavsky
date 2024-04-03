@@ -8,12 +8,12 @@ namespace lb5
 {
     class IndexOf
     {
-        public void indexOf(ListBox console)
+        public void indexOf(TextBox txtString, TextBox txtSub)
         {
-            string s = "Hello World";
-            string sub = "or";
+            string s = txtString.Text;
+            string sub = txtSub.Text;
             int index = s.IndexOf(sub);
-            console.Items.Add(index);
+            MessageBox.Show(index.ToString());
         }
     }
 }
