@@ -1,0 +1,17 @@
+C:\Users\Stas\source\repos\oop\lb6\bin\Debug\net8.0-windows\lb6.exe
+C:\Users\Stas\source\repos\oop\lb6\bin\Debug\net8.0-windows\lb6.deps.json
+C:\Users\Stas\source\repos\oop\lb6\bin\Debug\net8.0-windows\lb6.runtimeconfig.json
+C:\Users\Stas\source\repos\oop\lb6\bin\Debug\net8.0-windows\lb6.dll
+C:\Users\Stas\source\repos\oop\lb6\bin\Debug\net8.0-windows\lb6.pdb
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.Form1.resources
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.AssemblyInfo.cs
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.dll
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\refint\lb6.dll
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.pdb
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.genruntimeconfig.cache
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\ref\lb6.dll
+C:\Users\Stas\source\repos\oop\lb6\obj\Debug\net8.0-windows\lb6.Properties.Resources.resources
