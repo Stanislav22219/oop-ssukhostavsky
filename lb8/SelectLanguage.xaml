@@ -1,0 +1,18 @@
+﻿<Window x:Class="Richtexteditorsample.SelectLanguage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Richtexteditorsample"
+        mc:Ignorable="d"
+        xmlns:language="clr-namespace:Richtexteditorsample.Properties.Languages"
+        Title="{x:Static language:lang.sel_lang_title}" Height="545" Width="400">
+    <Grid>
+        <Label Content="{x:Static language:lang.lbl_lang}" FontSize="20"/>
+        <ComboBox Name="cmb" SelectionChanged="ComboBox_SelectionChanged" Height="57" FontSize="20" Margin="0,45,0,427">
+            <ComboBoxItem Content="{x:Static language:lang.en}"/>
+            <ComboBoxItem Content="{x:Static language:lang.ua}"/>
+        </ComboBox>
+        <Button Content="{x:Static language:lang.btn_reload}" Click="Button_Click" FontSize="20" Margin="87,425,87,49"/>
+    </Grid>
+</Window>
