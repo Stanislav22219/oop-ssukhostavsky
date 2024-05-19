@@ -1,0 +1,9 @@
+C:\Users\Student\Downloads\oop\lb10_1\bin\Release\lb10_1.exe.config
+C:\Users\Student\Downloads\oop\lb10_1\bin\Release\lb10_1.exe
+C:\Users\Student\Downloads\oop\lb10_1\bin\Release\lb10_1.pdb
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.Properties.Resources.resources
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.exe
+C:\Users\Student\Downloads\oop\lb10_1\obj\Release\lb10_1.pdb
