@@ -1,0 +1,10 @@
+C:\Users\Stas\source\repos\oop\lb12\bin\Debug\lb12.exe
+C:\Users\Stas\source\repos\oop\lb12\bin\Debug\lb12.pdb
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.csproj.AssemblyReference.cache
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.csproj.ResolveComReference.cache
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.Form1.resources
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.Properties.Resources.resources
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.exe
+C:\Users\Stas\source\repos\oop\lb12\obj\Debug\lb12.pdb
