@@ -1,0 +1,9 @@
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.Form1.resources
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\lab15\bin\Debug\lab15.exe
+C:\Users\Stas\source\repos\oop\lab15\bin\Debug\lab15.pdb
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.exe
+C:\Users\Stas\source\repos\oop\lab15\obj\Debug\lab15.pdb
