@@ -1,0 +1,9 @@
+C:\Users\Stas\source\repos\oop\lab13\bin\Debug\lab13.exe
+C:\Users\Stas\source\repos\oop\lab13\bin\Debug\lab13.pdb
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.Form1.resources
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.exe
+C:\Users\Stas\source\repos\oop\lab13\obj\Debug\lab13.pdb
