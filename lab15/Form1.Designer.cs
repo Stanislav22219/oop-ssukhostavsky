@@ -55,6 +55,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.btnFileSize = new System.Windows.Forms.Button();
             this.FadList = new System.Windows.Forms.ListBox();
+            this.treeView1 = new System.Windows.Forms.TreeView();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -104,6 +105,7 @@
             // 
             this.txtPassword.Location = new System.Drawing.Point(111, 99);
             this.txtPassword.Name = "txtPassword";
+            this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(220, 20);
             this.txtPassword.TabIndex = 5;
             // 
@@ -305,11 +307,19 @@
             this.FadList.Size = new System.Drawing.Size(417, 420);
             this.FadList.TabIndex = 11;
             // 
+            // treeView1
+            // 
+            this.treeView1.Location = new System.Drawing.Point(455, 13);
+            this.treeView1.Name = "treeView1";
+            this.treeView1.Size = new System.Drawing.Size(417, 419);
+            this.treeView1.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(884, 450);
+            this.Controls.Add(this.treeView1);
             this.Controls.Add(this.FadList);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtPath);
@@ -322,7 +332,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "FTP клієнт";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -359,6 +369,7 @@
         private System.Windows.Forms.Button btnCreateLog;
         private System.Windows.Forms.Button btnUpload;
         private System.Windows.Forms.ListBox FadList;
+        private System.Windows.Forms.TreeView treeView1;
     }
 }
 

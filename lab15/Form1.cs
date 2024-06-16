@@ -24,6 +24,7 @@ namespace lab15
         private void btnGet_Click(object sender, EventArgs e)
         {   
             FadList.Items.Clear();
+            treeView1.Nodes.Clear();
 
             FtpWebRequest request = (FtpWebRequest)WebRequest.Create(txtHost.Text);
             request.Credentials = new NetworkCredential(txtUser.Text, txtPassword.Text);
@@ -32,15 +33,21 @@ namespace lab15
             Stream responseStream = response.GetResponseStream();
             StreamReader reader = new StreamReader(responseStream);
 
-
-            while (!reader.EndOfStream)
+            try {
+                while (!reader.EndOfStream)
+                {
+                    FadList.Items.Add(reader.ReadLine());
+                    treeView1.Nodes.Add(reader.ReadLine());
+                }
+                MessageBox.Show(response.WelcomeMessage);
+                reader.Close();
+                response.Close();
+            } 
+            catch (ObjectDisposedException a) 
             {
-                FadList.Items.Add(reader.ReadLine());
-
+                Console.WriteLine("Caught: {0}", a.Message);
             }
-            MessageBox.Show(response.WelcomeMessage);
-            reader.Close();
-            response.Close();
+                
         }
 
         private void btnUpload_Click(object sender, EventArgs e)
