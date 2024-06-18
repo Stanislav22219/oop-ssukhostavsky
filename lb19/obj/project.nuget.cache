@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4K/R8tKV7jFpmF3odVneingaD2jadSxRRXXm3dQKLNN5RMC2VnA1apka91Nk72zs2XKZ/D91CBjk69BRQbwtrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stas\\source\\repos\\oop\\Lab19OOP-main\\Lab19OOP\\lb19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stas\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Stas\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

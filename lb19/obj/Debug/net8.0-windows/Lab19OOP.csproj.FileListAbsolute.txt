@@ -1,0 +1,41 @@
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.exe
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.deps.json
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.runtimeconfig.json
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.dll
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.pdb
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\System.Management.dll
+D:\Нова папка\Lab19OOP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.AssemblyReference.cache
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.Form1.resources
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.AssemblyInfo.cs
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.Up2Date
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.dll
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\refint\Lab19OOP.dll
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.pdb
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.genruntimeconfig.cache
+D:\Нова папка\Lab19OOP\obj\Debug\net8.0-windows\ref\Lab19OOP.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.exe
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.deps.json
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.runtimeconfig.json
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\Lab19OOP.pdb
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.AssemblyReference.cache
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.Form1.resources
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.AssemblyInfo.cs
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.csproj.CopyComplete
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\refint\Lab19OOP.dll
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.pdb
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\Lab19OOP.genruntimeconfig.cache
+C:\Users\Stas\source\repos\oop\Lab19OOP-main\Lab19OOP\obj\Debug\net8.0-windows\ref\Lab19OOP.dll
