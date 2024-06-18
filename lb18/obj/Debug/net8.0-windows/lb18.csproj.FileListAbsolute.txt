@@ -1,0 +1,16 @@
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\bin\Debug\net8.0-windows\lb18.exe
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\bin\Debug\net8.0-windows\lb18.deps.json
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\bin\Debug\net8.0-windows\lb18.runtimeconfig.json
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\bin\Debug\net8.0-windows\lb18.dll
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\bin\Debug\net8.0-windows\lb18.pdb
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.Form1.resources
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.csproj.GenerateResource.cache
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.AssemblyInfo.cs
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.dll
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\refint\lb18.dll
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.pdb
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\lb18.genruntimeconfig.cache
+C:\Users\Stas\source\repos\oop\Lab18OOP-main\Lab18OOP\obj\Debug\net8.0-windows\ref\lb18.dll
